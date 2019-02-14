@@ -1,0 +1,7 @@
+Links
+    Richard S. Sutton and Andrew G. Barto, 1998, Reinforcement Learning: An Introduction
+		https://mitpress.mit.edu/books/reinforcement-learning
+
+    Volodymyr Mnih et al., 2016, Asynchronous Methods for Deep Reinforcement Learning
+		https://arxiv.org/pdf/1602.01783.pdf
+
